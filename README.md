@@ -1,6 +1,6 @@
 # Sia_Nextcloud
 
-Create your own low-cost, secure storage with cloud backend.
+Create your own low-cost, secure storage platform with cloud backend.
 You don't have to trust a centralized company anymore, Sia allows you to distribute and encrypt your data. Only the owner of the private key has access to the files. 
 
 More information about Sia: https://sia.tech/
