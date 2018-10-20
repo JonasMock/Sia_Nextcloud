@@ -10,7 +10,7 @@ You don't have to trust a centralized company anymore, Sia allows you to distrib
   Store 1 TB for Allowance Period:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;288.9 SC / 1,73 € <br>
   Upload 1 TB:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.48 SC / 0,04 € <br>
 
-More information about Sia: https://sia.tech/
+More information about Sia: https://sia.tech/ <br>
 More information about Nextcloud: https://nextcloud.com/
 
 Requirements:
