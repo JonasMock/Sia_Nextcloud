@@ -24,4 +24,4 @@ EXPOSE 9980 9981
 # Specify the Sia directory as /mnt/sia so that you can view these files outside
 # of Docker.
 WORKDIR $SIA_DIR
-ENTRYPOINT socat tcp-listen:9980,reuseaddr,fork tcp:localhost:8000 & ./siad --modules gctwr --sia-directory /mnt/sia-data --api-addr localhost:8000 --authenticate-api=false
+ENTRYPOINT socat tcp-listen:9980,reuseaddr,fork tcp:localhost:8000 & ./siad --modules gctwr --sia-directory /mnt/sia-data --api-addr localhost:8000 --authenticate-api=true
