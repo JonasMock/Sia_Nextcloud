@@ -3,7 +3,7 @@
 Create your own low-cost, secure storage platform with cloud backend.
 You don't have to trust a centralized company anymore, Sia allows you to distribute and encrypt your data. Only the owner of the private key has access to the files.
 
-  Renter Prices (estimated, 20.10.2018):<br>
+  Renter Prices (estimated, 20.10.2018):<br><br>
   Fees for Creating a Set of Contracts:   72.81 SC / 0,44 € <br>
   Download 1 TB:                           8.49 SC / 0,05 € <br>
   Store 1 TB for 1 Month:                 96.29 SC / 0,58 € <br>
