@@ -21,7 +21,7 @@ Requirements:
 
 Michael Lynch already created a detailed tutorial how to setup Docker, Sia and Nextcloud.
 
-Tutorial: https://mtlynch.io/sia-nextcloud/#create-files-and-folders-for-docker
+Tutorial: https://mtlynch.io/sia-nextcloud/#create-files-and-folders-for-docker <br>
 More Sia projects from Michael Lynch: https://github.com/mtlynch
 
 I've made the following changes to his configuration:
