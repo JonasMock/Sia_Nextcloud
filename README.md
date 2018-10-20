@@ -11,6 +11,7 @@ You don't have to trust a centralized company anymore, Sia allows you to distrib
   Upload 1 TB:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.48 SC / 0,04 € <br>
 
 More information about Sia: https://sia.tech/
+More information about Nextcloud: https://nextcloud.com/
 
 Requirements:
 
