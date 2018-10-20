@@ -14,5 +14,5 @@ Tutorial: https://mtlynch.io/sia-nextcloud/#create-files-and-folders-for-docker
 I've made the following changes to his configuration:
 
 - Changed Sia_Version to 1.3.6
-- Use lates Nextcloud version (Sia AddOn has to be installed manually in Nextcloud 14)
+- Use latest Nextcloud version (Sia AddOn has to be installed manually in Nextcloud 14)
 - Use API authetication, in Sia version 1.3.6 this authetication is enforced by default (https://gitlab.com/NebulousLabs/Sia/merge_requests/3239)
